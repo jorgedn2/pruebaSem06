@@ -1,7 +1,7 @@
 const mysql = require("mysql2/promise");
 
 const pool = mysql.createPool({
-  host: "yamabiko.proxy.rlwy.net",
+  host: "tramway.proxy.rlwy.net",
   user: "root",
   password: "AOeRmJGrTpfBDXaMlMJbdMpYoTfcceDF",
   database: "railway",
